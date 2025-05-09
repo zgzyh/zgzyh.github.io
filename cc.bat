@@ -1,0 +1,1 @@
+start jre\java11\bin\javaw.exe -jar lizzie.jar --ruleset custom --disable-points random:5
